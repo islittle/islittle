@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 目前就职上海一家有艺术和态度的互联网公司
- 🌱 热衷于新技术，紧跟技术的小船
- 💬 你可以咨询我前端相关事情，在上海生活咋样，上海哪里好玩等等
- 📫 联系邮箱：islittle@outlook.com 
+- 🔭 目前就职上海一家有艺术和态度的互联网公司
+- 🌱 热衷于新技术，紧跟技术的小船
+- 💬 你可以咨询我前端相关事情，在上海生活咋样，上海哪里好玩等等
+- 📫 联系邮箱：islittle@outlook.com 
